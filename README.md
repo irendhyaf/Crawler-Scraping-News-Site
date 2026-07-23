@@ -17,14 +17,14 @@ Seluruh hasil ekstraksi disimpan dalam format JSON.
 Notebook dibagi menjadi tiga bagian utama:
 
 Shared Functions
-│
+
 ├── Library
 ├── Global Config
 ├── URL Validation
 ├── Article Url Crawler
 ├── Global Scraping Config
 └── Import as JSON
-│
+
 ├── Backtrack Crawler
 │   └── Mengekstrak artikel berdasarkan rentang tanggal publikasi
 │
